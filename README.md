@@ -46,7 +46,7 @@ Example `user_config.json`:
 
 * **course\_name**: e.g., `"Physics"`
 * **material\_name**: e.g., `"Electromagnetic_Optics_Quantum_Physics.pdf"`
-* **Page ranges** (book, cover, TOC (table of contents), text, appendix): counted from the first file page, not internal book numbering.
+* **Page ranges** [book, cover, TOC (table of contents), text, appendix]: counted from the first file page, not internal book numbering.
 * **toc\_max\_level**: maximum TOC depth (starts from 1).
 * **toc\_re\_expression**: regular expressions to match TOC levels.
 

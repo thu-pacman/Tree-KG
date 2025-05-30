@@ -14,7 +14,7 @@ curl -X POST https://pacman.cs.tsinghua.edu.cn/api/treekg/submit_task \
 
 Example book:
 *《大学物理学（第4版）电磁学、光学、量子物理》*
-张三慧 编著 安 宇 阮 东 李岩松 修订
+张三慧 编著 安宇 阮东 李岩松 修订
 清华大学出版社
 
 Example `user_config.json`:

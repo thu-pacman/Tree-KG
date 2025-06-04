@@ -70,7 +70,7 @@ Example response:
 }
 ```
 
-### 3.Retrieve Task Results
+### 3. Retrieve Task Results
 
 ```bash
 curl -O https://pacman.cs.tsinghua.edu.cn/api/treekg/task_result/${task_id}
